@@ -1,9 +1,0 @@
-{
-  "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "red-devil-backend",
-  "main": "src/index.ts",
-  "compatibility_date": "2026-05-28",
-  "vars": {
-    "DISCORD_WEBHOOK_URL": "https://discord.com/api/webhooks/YOUR_REAL_ID_STRING/YOUR_REAL_TOKEN_STRING"
-  }
-}

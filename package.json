@@ -1,0 +1,14 @@
+{
+  "name": "red-devil-exterior-pipeline",
+  "version": "1.2.0",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "start": "wrangler dev"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240228.0",
+    "typescript": "^5.3.3",
+    "wrangler": "^3.32.0"
+  }
+}
